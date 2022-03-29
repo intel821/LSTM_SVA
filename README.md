@@ -14,10 +14,14 @@ After downloading the dataset, exctract images at 1[fps] rate, and put the resul
 
 The current results are as follows.
 
-Total Phase Accuracy : 90.34 % 
+Total Phase Accuracy : 90.34 %
+
 Phase Precision : 86.71 +- 8.79 %
+
 Phase Recall : 85.45 +- 10.09 %
+
 mAP of Tool Detection : 81.00 +- 14.09 %
+
 
 ![image](https://user-images.githubusercontent.com/72535628/160593478-d336b6b5-5237-4ce2-81b9-50ba51e1dd90.png)
 
